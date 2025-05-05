@@ -30,7 +30,6 @@ With extensive experience as a Full Stack Java Developer, I specialize in buildi
 
 ### ✅ Case Management System
 **Tech Stack**: Spring Boot, Microservices, React, JWT, RabbitMQ, WebClient, Email, Redux, JdbcTemplate, SQL, Oracle SQL  
-**GitHub Repository**: [View Case Management System](#)
 
 - Built a secure banking case management system with role-based dashboards using Spring Boot, Microservices, and React.
 - Integrated RabbitMQ for asynchronous notifications and Spring Scheduler for automated case handling.
