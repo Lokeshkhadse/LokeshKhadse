@@ -8,8 +8,8 @@ With extensive experience as a Full Stack Java Developer, I specialize in buildi
 ## 🔧 Technologies I Work With
 ### Backend:
 - **Java**, **Spring Boot**, **Spring MVC**, **Spring Security (JWT, OAuth2)**, **Hibernate**, **Spring Data JPA**
-- **RESTful APIs**, **JdbcTemplate**, **Spring AOP**, **Microservices Architecture**
-- **Eureka Server**, **API Gateway**, **Kafka**, **RabbitMQ**, **Email**
+- **RESTful APIs**, **JdbcTemplate**, **Spring AOP**
+- **Microservices Architecture**, **Eureka Server**, **API Gateway**, **Kafka**, **RabbitMQ**, **Email**
 - **WebClient**, **FeignClient**, **JUnit**, **Mockito**
 
 ### Frontend:
