@@ -85,7 +85,6 @@ With extensive experience as a Full Stack Java Developer, I specialize in buildi
 5.Added "Forgot Password" feature with OTP verification for secure password recovery.
 
 
-
 3️⃣.🎙️ 𝐕𝐨𝐢𝐜𝐞-𝐄𝐧𝐚𝐛𝐥𝐞𝐝 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐧𝐞 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 (𝐒𝐲𝐦𝐛𝐥.𝐚𝐢 𝐍𝐋𝐏 𝐓𝐨𝐨𝐥)
 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤: HTML, CSS, React.js, Symbl.ai,Express.js,JavaScript
 𝐆𝐢𝐭𝐇𝐮𝐛 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲: https://github.com/Lokeshkhadse/FinalYearProject
