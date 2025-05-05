@@ -8,7 +8,7 @@ Welcome to my 𝐆𝐢𝐭𝐇𝐮𝐛 profile! Here, you'll find my personal an
 
 With extensive experience as a Full Stack Java Developer, I specialize in building scalable, secure, and high-performance applications using both frontend and backend technologies. My strong foundation in Java and Data Structures & Algorithms (DSA) helps me solve problems efficiently and write optimized, maintainable code.
 
-🔧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐖𝐨𝐫𝐤 𝐖𝐢𝐭𝐡
+🔧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐖𝐨𝐫𝐤 𝐖𝐢𝐭𝐡 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 𝐁𝐚𝐜𝐤𝐞𝐧𝐝:
