@@ -15,29 +15,31 @@ With extensive experience as a Full Stack Java Developer, I specialize in buildi
 • Java
 • Spring Boot
 • Spring MVC
-• Spring Security
+• Spring Security (JWT , OAuth2)
 • Hibernate
 • Spring Data JPA
 • RESTful APIs
 • JdbcTemplate
 • Spring AOP
 • Microservices Architecture
+• Eureka Server
+• Api Gateway
 • Kafka
 • RabbitMQ
 • Email
 • WebClient
 • FeignClient
-• RestTemplate
 • JUnit
+• Mockito
+
 
 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝:
 • React
-• Angular
 • HTML5
 • CSS3
 • JavaScript
 • Tailwind CSS
-• TypeScript
+
 
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞:
 • MySQL
