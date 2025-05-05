@@ -4,12 +4,12 @@ I'm 𝐋𝐨𝐤𝐞𝐬𝐡 𝐊𝐡𝐚𝐝𝐬𝐞, a passionate 𝐉𝐚𝐯
 Welcome to my 𝐆𝐢𝐭𝐇𝐮𝐛 profile! Here, you'll find my personal and professional projects, showcasing my journey in the world of web development and problem-solving.
 
 💡 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 With extensive experience as a Full Stack Java Developer, I specialize in building scalable, secure, and high-performance applications using both frontend and backend technologies. My strong foundation in Java and Data Structures & Algorithms (DSA) helps me solve problems efficiently and write optimized, maintainable code.
 
 🔧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐖𝐨𝐫𝐤 𝐖𝐢𝐭𝐡
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 𝐁𝐚𝐜𝐤𝐞𝐧𝐝:
 • Java
@@ -63,7 +63,8 @@ With extensive experience as a Full Stack Java Developer, I specialize in buildi
 
 
 📂 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
+
 1️⃣.✅ 𝐂𝐚𝐬𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦
 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤: Spring Boot, Microservices, React, JWT, RabbitMQ, WebClient, Email, Redux, JDBC Template,SQL , OracleSQL
 
@@ -96,16 +97,16 @@ With extensive experience as a Full Stack Java Developer, I specialize in buildi
 
 
 🌱 𝐁𝐞𝐲𝐨𝐧𝐝 𝐖𝐨𝐫𝐤
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 When I’m not coding, you’ll find me enjoying cricket, traveling, and trekking—activities that recharge and inspire me. I believe in lifelong learning and adapting to change as keys to success in the tech world.
 
 🤝 𝐋𝐞𝐭’𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Feel free to reach out if you're interested in collaborating on exciting projects, or if you'd like to discuss anything tech-related. I'm always open to new opportunities and ideas!
 
-𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧: 𝐰𝐰𝐰.𝐥𝐢𝐧𝐤𝐞𝐝𝐢𝐧.𝐜𝐨𝐦/𝐢𝐧/𝐥𝐨𝐤𝐞𝐬𝐡-𝐤𝐡𝐚𝐝𝐬𝐞
-𝐄𝐦𝐚𝐢𝐥: 𝐥𝐨𝐤𝐞𝐬𝐡𝐤𝐡𝐚𝐝𝐬𝐞𝟏𝟗@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+• 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧: 𝐰𝐰𝐰.𝐥𝐢𝐧𝐤𝐞𝐝𝐢𝐧.𝐜𝐨𝐦/𝐢𝐧/𝐥𝐨𝐤𝐞𝐬𝐡-𝐤𝐡𝐚𝐝𝐬𝐞
+• 𝐄𝐦𝐚𝐢𝐥: 𝐥𝐨𝐤𝐞𝐬𝐡𝐤𝐡𝐚𝐝𝐬𝐞𝟏𝟗@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 
 Thanks for visiting my profile! 😊
