@@ -79,6 +79,7 @@ With extensive experience as a Full Stack Java Developer, I specialize in buildi
 2.Integrated RabbitMQ and WebClient for efficient asynchronous notifications and API handling, reducing response time by 25%.
 3.Implemented JWT-based authentication, enhancing security and improving login efficiency by 20%.
 4.Optimized order processing with SQL queries, increasing performance by 35%, and boosted customer engagement by 25% through email notifications.
+5.Added "Forgot Password" feature with OTP verification for secure password recovery.
 
 
 
