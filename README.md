@@ -11,51 +11,54 @@ With extensive experience as a Full Stack Java Developer, I specialize in buildi
 🔧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐖𝐨𝐫𝐤 𝐖𝐢𝐭𝐡
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-𝐁𝐚𝐜𝐤𝐞𝐧𝐝:    
-    Java 
-    Spring Boot
-    Spring MVC
-    Spring Security
-    Hibernate
-    Spring Data JPA
-    RESTful APIs
-    JdbcTemplate
-    Spring AOP
-    Microservices Architecture
-    Kafka
-    RabbitMQ
-    Email
-    WebClient,FeignClient,RestTemplate
-    JUnit
+𝐁𝐚𝐜𝐤𝐞𝐧𝐝:
+• Java
+• Spring Boot
+• Spring MVC
+• Spring Security
+• Hibernate
+• Spring Data JPA
+• RESTful APIs
+• JdbcTemplate
+• Spring AOP
+• Microservices Architecture
+• Kafka
+• RabbitMQ
+• Email
+• WebClient
+• FeignClient
+• RestTemplate
+• JUnit
 
 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝:
-     React
-     Angular
-     HTML5
-     CSS3
-     JavaScript
-     Tailwind CSS
-     TypeScript
-
+• React
+• Angular
+• HTML5
+• CSS3
+• JavaScript
+• Tailwind CSS
+• TypeScript
 
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞:
-    MySQL
-    Oracle SQL
+• MySQL
+• Oracle SQL
 
 𝐃𝐞𝐯𝐎𝐩𝐬 & 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭:
-    Docker
-    Git
-    GitHub
-    Jenkins
+• Docker
+• Git
+• GitHub
+• Jenkins
 
 𝐓𝐨𝐨𝐥𝐬:
-   Maven
-   Git
-   Postman
-   IntelliJ IDEA
-   VS Code
-   STS
-   Eclipse
+• Maven
+• Git
+• Postman
+• IntelliJ IDEA
+• VS Code
+• STS
+• Eclipse
+
+
 
 📂 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
