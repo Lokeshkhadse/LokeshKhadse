@@ -1,6 +1,6 @@
  Hi there 👋
 
-I'm 𝐋𝐨𝐤𝐞𝐬𝐡 𝐊𝐡𝐚𝐝𝐬𝐞, a passionate 𝐉𝐚𝐯𝐚 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with a strong foundation in 𝐉𝐚𝐯𝐚, 𝐒𝐩𝐫𝐢𝐧𝐠 𝐁𝐨𝐨𝐭, 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬, 𝐑𝐞𝐚𝐜𝐭, 𝐒𝐐𝐋, and 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 & 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 (𝐃𝐒𝐀).
+I'm 𝐋𝐨𝐤𝐞𝐬𝐡 𝐊𝐡𝐚𝐝𝐬𝐞, a passionate 𝐉𝐚𝐯𝐚 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with a strong foundation in 𝐉𝐚𝐯𝐚, 𝐒𝐩𝐫𝐢𝐧𝐠 𝐁𝐨𝐨𝐭, 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬, 𝐑𝐞𝐚𝐜𝐭, 𝐒𝐐𝐋 and 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 & 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 (𝐃𝐒𝐀).
 Welcome to my 𝐆𝐢𝐭𝐇𝐮𝐛 profile! Here, you'll find my personal and professional projects, showcasing my journey in the world of web development and problem-solving.
 
 💡 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
