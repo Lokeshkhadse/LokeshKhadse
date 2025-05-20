@@ -123,13 +123,14 @@ I’m open to **collaborations**, **freelance gigs**, or **exciting job opportun
   <a href="https://www.linkedin.com/in/lokesh-khadse" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:lokeshkhadse19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:+919665952003">
-    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
+
+<p align="left">
+  📧 Email: lokeshkhadse19@gmail.com  
+  <br />
+  📞 Phone: +91 9665952003
+</p>
+
 
 
 
