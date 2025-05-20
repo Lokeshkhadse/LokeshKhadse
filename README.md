@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Lokesh Khadse</h1>
+<h1 align="center">
+  Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="wave" width="30" />, I'm Lokesh Khadse
+</h1>
 <h3 align="center">Java Full Stack Developer | Building Scalable Web Apps 🚀</h3>
 
 <p align="center">
