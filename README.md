@@ -2,8 +2,9 @@
 <h3 align="center">Java Full Stack Developer | Building Scalable Web Apps 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+Microservices;Let's+Build+Something+Awesome+Together+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Java+%7C+Spring+%7C+Spring+Boot+%7C+Microservices+%7C+React.js+%7C+Docker+%7C+MySQL+%7C+Oracle+SQL+%7C+AWS;Let's+Build+Something+Awesome+Together+%F0%9F%92%AA" />
 </p>
+
 
 ---
 
