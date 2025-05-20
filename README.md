@@ -22,11 +22,27 @@ I'm a passionate **Full Stack Developer** who loves crafting scalable, secure, a
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-00599C?style=for-the-badge&logo=oauth&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/JdbcTemplate-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring%20AOP-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eureka%20Server-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Gateway-7952B3?style=for-the-badge&logo=apigee&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebClient-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FeignClient-0FA36B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-FFCA28?style=for-the-badge" />
 </p>
+
 
 ### 🌐 Frontend  
 <p>
