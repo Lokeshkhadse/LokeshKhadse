@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="wave" width="30" />, I'm Lokesh Khadse
 </h1>
-<h3 align="center">Java Full Stack Developer | Building Scalable Web Apps 🚀</h3>
+<h3 align="center">Java Full Stack Developer | Building Scalable Web & Enterprise Applications 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=300&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Java+%7C+Spring+%7C+Spring+Boot+%7C+Microservices+%7C+React.js+%7C+Docker+%7C+MySQL;Let's+Build+Something+Awesome+Together+%F0%9F%92%AA" />
