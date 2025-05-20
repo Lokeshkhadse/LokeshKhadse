@@ -78,7 +78,7 @@ I'm a passionate **Full Stack Developer** who loves crafting scalable, secure, a
 ## 📂 Featured Projects
 
 ### ✅ Case Management System  
-🧩 **Tech**: Spring Boot, Microservices, React, JWT, RabbitMQ, JdbcTemplate, WebClient, Oracle SQL  
+ 💻  **Tech**: Spring Boot, Microservices, React, JWT, RabbitMQ, JdbcTemplate, WebClient, Oracle SQL  
 - Designed a secure, role-based banking case system.
 - Reduced case resolution time by **40%** with automated workflows.
 - Improved database performance by **30%** using optimized SQL with JdbcTemplate.
@@ -88,7 +88,7 @@ I'm a passionate **Full Stack Developer** who loves crafting scalable, secure, a
 
 ### 🍽️ Food Catering Web Application  
 🔗 [View on GitHub](https://github.com/Food-Catering-Project)  
-🧩 **Tech**: Microservices, React, JWT, RabbitMQ, Email, WebClient, SQL, Redux, Eureka Server  
+ 💻  **Tech**: Microservices, React, JWT, RabbitMQ, Email, WebClient, SQL, Redux, Eureka Server  
 - Real-time scalable food delivery & catering platform.
 - Enhanced performance by **35%** using optimized order queries.
 - Integrated **JWT-based** secure login and **OTP-based** password recovery.
@@ -98,7 +98,7 @@ I'm a passionate **Full Stack Developer** who loves crafting scalable, secure, a
 
 ### 🎙️ Voice-Enabled Command Line Interface  
 🔗 [View on GitHub](https://github.com/Lokeshkhadse/FinalYearProject)  
-🧩 **Tech**: HTML, CSS, React.js, Symbl.ai, JavaScript, Express.js  
+ 💻  **Tech**: HTML, CSS, React.js, Symbl.ai, JavaScript, Express.js  
 - Built a **voice-driven CLI** for enhanced accessibility.
 - Enabled real-time voice recognition with **Symbl.ai** APIs.
 - Delivered a seamless and intuitive command experience.
