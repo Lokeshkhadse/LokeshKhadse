@@ -57,7 +57,9 @@ I'm a passionate **Full Stack Developer** who loves crafting scalable, secure, a
 <p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
+
 
 ### ⚙️ DevOps & Tools  
 <p>
