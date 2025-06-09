@@ -106,12 +106,6 @@ I'm a passionate **Full Stack Developer** who loves crafting scalable, secure, a
 - Enabled real-time voice recognition with **Symbl.ai** APIs.
 - Delivered a seamless and intuitive command experience.
 
----
-## 📈 Profile View
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokeshkhadse" alt="Profile views" />
-</p>
 
 
 ---
