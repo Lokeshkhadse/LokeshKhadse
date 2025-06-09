@@ -107,12 +107,12 @@ I'm a passionate **Full Stack Developer** who loves crafting scalable, secure, a
 - Delivered a seamless and intuitive command experience.
 
 ---
-## 📈 GitHub Stats
+## 📈 Profile View
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="150" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokeshkhadse" alt="Profile views" />
 </p>
+
 
 ---
 
