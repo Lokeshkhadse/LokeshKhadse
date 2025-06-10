@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Microservices+%7C+React.js+%7C+MySQL+%7C+Docker+%7C+Kubernetes;Let's+Build+Something+Awesome+Together+%F0%9F%92%AA" />
 </p>
 
+<p align="center">
+  <a href="https://lokeshkhadse.github.io/MyProfile/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
 
 ---
 
