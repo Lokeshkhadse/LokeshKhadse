@@ -9,9 +9,10 @@
 
 <p align="center">
   <a href="https://lokeshkhadse.github.io/MyProfile/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-FFFFFF?style=for-the-badge&logo=githubpages&logoColor=000000" alt="Portfolio Badge"/>
   </a>
 </p>
+
 
 ---
 
