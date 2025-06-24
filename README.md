@@ -14,10 +14,11 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1mODeqpMI-J145cuCbRgYYRVvMuSTUpiZ" target="_blank">
+  <a href="https://drive.google.com/file/d/1oc0Z16WSljhjLDh2QdeCMIVotqwcx9-i/view" target="_blank">
     <img src="https://img.shields.io/badge/Download%20My%20Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge"/>
   </a>
 </p>
+
 
 
 
