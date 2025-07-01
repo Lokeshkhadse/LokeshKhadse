@@ -19,11 +19,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://medium.com/@lokeshkhadse19" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Blogs-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-</p>
+
 
 
 
