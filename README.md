@@ -114,6 +114,22 @@ I'm a passionate **Full Stack Developer** who loves crafting scalable, secure, a
 - Reduced API response time by **25%** using **WebClient + RabbitMQ**.
 
 ---
+### 🏢 CRM Web Application for Real Estate Client  
+💻 **Tech**: FastAPI (Python), React.js, Firebase, Insomnia  
+- Architected a web-based CRM for real estate, improving operational efficiency by **50%** via streamlined property and task management.  
+- Implemented **RBAC** to enhance security by **40%** and optimize admin workflows.  
+- Developed sales modules that boosted conversion rates by **15%**, and added dashboards for **30%** better reporting accuracy.
+
+
+---
+### 📱 Attendance Tracking Mobile App for Real Estate Client  
+💻 **Tech**: FastAPI, React Native, Firebase  
+- Developed a cross-platform attendance app, increasing user engagement by **40%**.  
+- Built secure backend services for role and attendance management, improving reliability by **50%**.  
+- Automated reporting and enabled real-time data sync using **Firestore**, reducing manual errors by **55%**.  
+- Contributed to **60%** of end-to-end development, covering API design, UI integration, and Firestore mapping.
+
+---
 
 ### 🎙️ Voice-Enabled Command Line Interface  
 🔗 [View on GitHub](https://github.com/Lokeshkhadse/FinalYearProject)  
