@@ -37,23 +37,39 @@ I'm a passionate **Full Stack Developer** who loves crafting scalable, secure, a
 
 ### 🚀 Backend  
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <!-- Core Java -->
+  <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%208-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Collections%20Framework-4CAF50?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multithreading-FF5722?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced%20Concurrency-9C27B0?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streams%20%26%20Lambdas-2196F3?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Functional%20Programming-673AB7?style=for-the-badge&logo=java&logoColor=white" />
+  
+  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2-00599C?style=for-the-badge&logo=oauth&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  
+  <!-- APIs & Microservices -->
   <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=rest&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgen&logoColor=white" />
   <img src="https://img.shields.io/badge/Eureka%20Server-4285F4?style=for-the-badge&logo=netflix&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Gateway-7952B3?style=for-the-badge&logo=apigee&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/WebClient-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" />
   <img src="https://img.shields.io/badge/FeignClient-0FA36B?style=for-the-badge" />
-</p>  
+
+  <!-- Messaging & Security -->
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-00599C?style=for-the-badge&logo=oauth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email%20Integration-0072C6?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+
 
 ### 🧪 Testing  
 <p>
