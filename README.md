@@ -29,7 +29,7 @@
 
 ## 🤝 About Me
 
-I'm a passionate **Full Stack Developer** who loves crafting scalable, secure, and high-performance web and enterprise applications using **Java**, **Spring Boot**, **Microservices**, and **React**, along with **MySQL**, **Oracle SQL**, and **Docker**. I'm always eager to solve complex problems and explore new technologies.
+I'm a passionate **Full Stack Developer** who loves crafting scalable, secure, and high-performance web and enterprise applications using **Java**, **Spring Boot**, **Microservices**, and **React**, along with **MySQL**, **Oracle SQL**, and **DevOps**. I'm always eager to solve complex problems and explore new technologies.
 
 ---
 
