@@ -54,13 +54,14 @@
 - Redis  
 
 ### Tools & DevOps
-- Version Control: Git, GitHub  
-- CI/CD: Jenkins  
-- Containerization: Docker, Kubernetes  
-- Build Tools: Maven  
-- API Testing: Postman  
-- Monitoring & Logging: Splunk, ELK Stack, Dynatrace, Datadog, Sumo Logic  
-- IDEs: IntelliJ IDEA, VS Code, Eclipse, STS
+- Git & GitHub  
+- Jenkins  
+- Docker  
+- Kubernetes  
+- Maven  
+- Postman  
+- IntelliJ IDEA, VS Code, Eclipse, STS
+- Splunk, ELK Stack, Dynatrace
 
 
 
@@ -69,7 +70,8 @@
 - OAuth2
 - LDAP
 - Kafka  
-- RabbitMQ  
+- RabbitMQ
+- ApacheMQ
 
 ### Testing
 - JUnit  
