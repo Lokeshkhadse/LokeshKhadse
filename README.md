@@ -54,13 +54,14 @@
 - Redis  
 
 ### Tools & DevOps
-- Git & GitHub  
-- Jenkins  
-- Docker  
-- Kubernetes  
-- Maven  
-- Postman  
-- IntelliJ IDEA, VS Code, Eclipse, STS
+- Version Control: Git, GitHub  
+- CI/CD: Jenkins  
+- Containerization: Docker, Kubernetes  
+- Build Tools: Maven  
+- API Testing: Postman  
+- Monitoring & Logging: Splunk, ELK Stack, Dynatrace, Datadog, Sumo Logic  
+- IDEs: IntelliJ IDEA, VS Code, Eclipse, STS
+
 
 
 ### Messaging & Security
