@@ -55,11 +55,13 @@
 
 ### Tools & DevOps
 - Git & GitHub  
+- Jenkins  
 - Docker  
 - Kubernetes  
 - Maven  
 - Postman  
-- IntelliJ, VS Code, Eclipse , STS
+- IntelliJ IDEA, VS Code, Eclipse, STS
+
 
 ### Messaging & Security
 - JWT Authentication  
