@@ -1,12 +1,11 @@
-<!-- <h1 align="center">
-  Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/> I'm Lokesh Khadse
+ <h1 align="center">
+  Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/> I'm Lokesh Khadse | Software Engineer
 </h1>
 
-<h3 align="center">
+<!-- <h3 align="center">
   Full Stack Java Developer | Building Scalable Web & Enterprise Applications 🚀
 </h3> -->
 
-<h1 align="center">Lokesh Khadse | Software Engineer</h1>
 <p align="center">
 Designing high-performance, scalable applications with clean architecture and enterprise-grade reliability.
 </p>
