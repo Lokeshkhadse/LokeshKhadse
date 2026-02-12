@@ -1,191 +1,149 @@
 <h1 align="center">
-  Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="wave" width="30" />, I'm Lokesh Khadse
+  Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/> I'm Lokesh Khadse
 </h1>
-<h3 align="center">Java Full Stack Developer | Building Scalable Web & Enterprise Applications 🚀</h3>
+
+<h3 align="center">
+  Full Stack Java Developer | Building Scalable Web & Enterprise Applications 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Microservices+%7C+React.js+%7C+MySQL+%7C+Docker+%7C+Kubernetes;Let's+Build+Something+Awesome+Together+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=1000&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Microservices+%7C+React.js;Building+Scalable+Applications;Open+to+Opportunities" />
 </p>
 
 <p align="center">
   <a href="https://lokeshkhadse.github.io/MyProfile/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-1E90FF?style=for-the-badge&logo=githubpages&logoColor=FFFFFF" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/View%20Portfolio-1E90FF?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
 
-<!-- 
+---
+
+# 👨‍💻 About Me
+
+**Full Stack Java Developer with 2+ years of experience** building scalable enterprise web applications using **Java, Spring Boot, Microservices, and React.js**.  
+
+✔ Experienced in designing **RESTful APIs, distributed systems, and database-driven applications**  
+✔ Strong hands-on expertise in **backend architecture, frontend UI, and system integration**  
+✔ Skilled at **performance optimization, debugging, and scalable design patterns**  
+✔ Comfortable working in **Agile teams, Git workflows, and CI/CD environments**
+
+💡 I enjoy solving complex engineering problems, improving system performance, and building products that make real-world impact.
+
+---
+
+# 🛠 Technical Skills
+
+### Backend
+- Java, Spring Boot, Spring MVC, Spring Security  
+- Hibernate, Spring Data JPA, JDBC  
+- REST API Development  
+- Microservices Architecture  
+- Multithreading & Concurrency  
+
+### Frontend
+- React.js  
+- JavaScript  
+- HTML5, CSS3  
+- Tailwind CSS  
+
+### Database
+- MySQL  
+- Oracle SQL  
+- Redis  
+
+### Tools & DevOps
+- Git & GitHub  
+- Docker  
+- Kubernetes  
+- Maven  
+- Postman  
+- IntelliJ, VS Code, Eclipse  
+
+### Messaging & Security
+- JWT Authentication  
+- OAuth2  
+- Kafka  
+- RabbitMQ  
+
+### Testing
+- JUnit  
+- Mockito  
+
+---
+
+# 📂 Featured Projects
+
+## 🏦 Case Management System
+**Tech:** Spring Boot, Microservices, React, JWT, RabbitMQ, Oracle SQL  
+
+- Developed secure role-based banking case system  
+- Reduced case resolution time by **40%** via automated workflows  
+- Improved DB performance by **30%** using optimized queries  
+- Implemented async communication using **RabbitMQ**
+
+---
+
+## 🍽 Food Catering Web Application
+**Tech:** Microservices, React, JWT, Redux, RabbitMQ, SQL  
+
+- Designed scalable real-time food ordering platform  
+- Improved performance by **35%** through optimized APIs  
+- Reduced response time by **25%** using async processing  
+- Implemented secure login & OTP password recovery  
+
+---
+
+## 🏢 CRM Web Application
+**Tech:** FastAPI, React.js, Firebase  
+
+- Increased operational efficiency by **50%** through workflow automation  
+- Implemented RBAC security improving access control by **40%**  
+- Built dashboards improving reporting accuracy by **30%**
+
+---
+
+## 📱 Attendance Tracking Mobile App
+**Tech:** React Native, FastAPI, Firebase  
+
+- Boosted engagement by **40%** with cross-platform mobile solution  
+- Automated reports reducing manual errors by **55%**  
+- Developed scalable backend services for attendance tracking  
+
+---
+
+## 🎙 Voice-Enabled CLI
+**Tech:** React, Express.js, Symbl.ai  
+
+- Built voice-driven command interface  
+- Integrated real-time speech recognition APIs  
+- Improved accessibility and usability  
+
+---
+
+# 🌱 Beyond Coding
+
+When I’m not coding, I enjoy:
+
+- 🏏 Cricket  
+- 🌍 Traveling  
+- 🧗 Trekking  
+- 📚 Learning new technologies  
+
+---
+
+# 🤝 Let's Connect
+
+<p>
+<a href="https://www.linkedin.com/in/lokesh-khadse">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+📧 **Email:** lokeshkhadse19@gmail.com  
+📱 **Phone:** +91 9665952003  
+
+---
+
 <p align="center">
-  <a href="https://drive.google.com/file/d/1dpnFB1ua6H-9ZQGM-l16dj-IjGGfBUUN/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge"/>
-  </a>
+⭐ <b>“Passionate about building scalable systems that solve real-world problems.”</b>
 </p>
--->
-
-
-
-
-
----
-
-## 🤝 About Me
-
-I'm a passionate **Full Stack Developer** who loves crafting scalable, secure, and high-performance web and enterprise applications using **Java**, **Spring Boot**, **Microservices**, and **React**, along with **MySQL**, **Oracle SQL**, and **DevOps**. I'm always eager to solve complex problems and explore new technologies.
-
----
-
-## 🛠️ Tech Stack  
-
-### 🚀 Backend  
-<p>
-  <!-- Core Java -->
-  <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%208-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Collections%20Framework-4CAF50?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multithreading-FF5722?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced%20Concurrency-9C27B0?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streams%20%26%20Lambdas-2196F3?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Functional%20Programming-673AB7?style=for-the-badge&logo=java&logoColor=white" />
-  
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  
-  <!-- APIs & Microservices -->
-  <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgen&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eureka%20Server-4285F4?style=for-the-badge&logo=netflix&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Gateway-7952B3?style=for-the-badge&logo=apigee&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebClient-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" />
-  <img src="https://img.shields.io/badge/FeignClient-0FA36B?style=for-the-badge" />
-
-  <!-- Messaging & Security -->
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2-00599C?style=for-the-badge&logo=oauth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email%20Integration-0072C6?style=for-the-badge&logo=gmail&logoColor=white" />
-</p>
-
-
-### 🧪 Testing  
-<p>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-FFCA28?style=for-the-badge" />
-</p>  
-
-### 🌐 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>  
-
-### 💾 Database  
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>  
-
-### ⚙️ DevOps & Tools  
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</p>  
-
----
-
-## 📂 Featured Projects
-
-### ✅ Case Management System  
- 💻  **Tech**: Spring Boot, Microservices, React, JWT, RabbitMQ, JdbcTemplate, WebClient, Oracle SQL  
-- Designed a secure, role-based banking case system.
-- Reduced case resolution time by **40%** with automated workflows.
-- Improved database performance by **30%** using optimized SQL with JdbcTemplate.
-- Integrated **RabbitMQ** for async email notifications and used **JWT** for API security.
-
----
-
-### 🍽️ Food Catering Web Application  
-🔗 [View on GitHub](https://github.com/Food-Catering-Project)  
- 💻  **Tech**: Microservices, React, JWT, RabbitMQ, Email, WebClient, SQL, Redux, Eureka Server  
-- Real-time scalable food delivery & catering platform.
-- Enhanced performance by **35%** using optimized order queries.
-- Integrated **JWT-based** secure login and **OTP-based** password recovery.
-- Reduced API response time by **25%** using **WebClient + RabbitMQ**.
-
----
-### 🏢 CRM Web Application for Real Estate Client  
-💻 **Tech**: FastAPI (Python), React.js, Firebase, Insomnia  
-- Architected a web-based CRM for real estate, improving operational efficiency by **50%** via streamlined property and task management.  
-- Implemented **RBAC** to enhance security by **40%** and optimize admin workflows.  
-- Developed sales modules that boosted conversion rates by **15%**, and added dashboards for **30%** better reporting accuracy.
-
-
----
-### 📱 Attendance Tracking Mobile App for Real Estate Client  
-💻 **Tech**: FastAPI, React Native, Firebase  
-- Developed a cross-platform attendance app, increasing user engagement by **40%**.  
-- Built secure backend services for role and attendance management, improving reliability by **50%**.  
-- Automated reporting and enabled real-time data sync using **Firestore**, reducing manual errors by **55%**.  
-- Contributed to **60%** of end-to-end development, covering API design, UI integration, and Firestore mapping.
-
----
-
-### 🎙️ Voice-Enabled Command Line Interface  
-🔗 [View on GitHub](https://github.com/Lokeshkhadse/FinalYearProject)  
- 💻  **Tech**: HTML, CSS, React.js, Symbl.ai, JavaScript, Express.js  
-- Built a **voice-driven CLI** for enhanced accessibility.
-- Enabled real-time voice recognition with **Symbl.ai** APIs.
-- Delivered a seamless and intuitive command experience.
-
-
-
----
-
-## 🌱 Life Outside Code
-
-When I’m not writing code, I’m usually:
-- 🏏 Playing cricket  
-- 🌍 Traveling to new places  
-- 🧗‍♂️ Trekking and exploring nature  
-- 🧠 Learning something new every day
-
----
-
-## 🤝 Let’s Connect
-
-I’m open to **collaborations**, **freelance gigs**, or **exciting job opportunities**.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lokesh-khadse" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="left">
-  📧 Email: lokeshkhadse19@gmail.com  
-  <br />
-  📞 Phone: +91 9665952003
-</p>
-
-
-
-
----
-
-⭐ _Thanks for visiting my profile! Let’s build something impactful together._ 😊
