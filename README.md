@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=1000&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Microservices+%7C+React.js;Building+Scalable+Applications;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Microservices+%7C+React.js+%7C+MySQL+%7C+Docker+%7C+Kubernetes;Let's+Build+Something+Awesome+Together+%F0%9F%92%AA" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ✔ Skilled at **performance optimization, debugging, and scalable design patterns**  
 ✔ Comfortable working in **Agile teams, Git workflows, and CI/CD environments**
 
-💡 I enjoy solving complex engineering problems, improving system performance, and building products that make real-world impact.
+💡 I enjoy solving complex engineering problems, improving system performance, and building products that make a real-world impact.
 
 ---
 
@@ -48,7 +48,9 @@
 
 ### Database
 - MySQL  
-- Oracle SQL  
+- Oracle SQL
+- PostgreSQL
+- MSSQL
 - Redis  
 
 ### Tools & DevOps
@@ -57,11 +59,12 @@
 - Kubernetes  
 - Maven  
 - Postman  
-- IntelliJ, VS Code, Eclipse  
+- IntelliJ, VS Code, Eclipse , STS
 
 ### Messaging & Security
 - JWT Authentication  
-- OAuth2  
+- OAuth2
+- LDAP
 - Kafka  
 - RabbitMQ  
 
